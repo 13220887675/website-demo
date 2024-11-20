@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* Global styles */
+.container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.section {
+  @apply py-12 sm:py-16 lg:py-20;
+}
+
+.heading {
+  @apply text-3xl sm:text-4xl font-bold tracking-tight;
+}
+
+.subheading {
+  @apply text-xl text-gray-600 dark:text-gray-400;
+}
+
+/* Animation utilities */
+.fade-in {
+  @apply transition-opacity duration-300 ease-in-out;
+}
+
+/* Responsive utilities */
+.responsive-container {
+  @apply w-full max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Form elements */
+.input {
+  @apply block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary sm:text-sm;
+}
+
+.button {
+  @apply inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm;
+}
+
+.button-primary {
+  @apply button text-white bg-primary hover:bg-primary-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary;
+}
+
+.button-secondary {
+  @apply button text-primary bg-primary-50 hover:bg-primary-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary;
+}

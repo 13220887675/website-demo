@@ -1,0 +1,144 @@
+{
+  "Metadata": {
+    "titleTemplate": "%s | 企业网站",
+    "defaultTitle": "产品 | 企业网站",
+    "description": "高品质工业产品和解决方案的领先制造商",
+    "siteName": "您的公司",
+    "defaultDescription": "探索我们的创新产品线",
+    "defaultKeywords": "产品,创新,解决方案",
+    "blogTitle": "博客 | 企业网站",
+    "blogDescription": "最新行业见解和更新",
+    "productsTitle": "产品线 | 企业网站",
+    "productsDescription": "浏览我们完整的产品目录"
+  },
+  "Layout": {
+    "title": "产品展示网站",
+    "description": "探索我们的创新产品线",
+    "keywords": "产品,创新,解决方案",
+    "siteName": "企业官网",
+    "siteDescription": "领先的工业自动化解决方案提供商"
+  },
+  "Navigation": {
+    "logo": "产品展示",
+    "home": "首页",
+    "products": "产品",
+    "blog": "博客",
+    "faq": "常见问题",
+    "about": "关于我们",
+    "contact": "联系方式",
+    "toggleMenu": "切换导航菜单",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "mobileMenu": "导航菜单"
+  },
+  "Home": {
+    "title": "创新产品解决方案",
+    "subtitle": "您企业的最佳选择",
+    "cta": "了解更多",
+    "featuredProducts": "精选产品",
+    "featuredProductsDescription": "探索我们最受欢迎的产品线",
+    "featuredProductsViewAll": "查看所有产品",
+    "latestBlog": "最新博客文章",
+    "latestBlogDescription": "获取最新行业见解",
+    "latestBlogViewAll": "阅读更多文章",
+    "faq": "常见问题",
+    "faqDescription": "查找关于我们产品的常见问题解答",
+    "contact": "联系我们",
+    "contactDescription": "有问题？请与我们联系"
+  },
+  "Products": {
+    "title": "产品目录",
+    "description": "浏览我们完整的产品线",
+    "viewDetails": "查看详情",
+    "category": "类别",
+    "allCategories": "所有类别",
+    "searchPlaceholder": "搜索产品...",
+    "noResults": "未找到产品",
+    "features": "产品特点",
+    "specifications": "技术规格",
+    "inquiryTitle": "产品询价",
+    "pageTitle": "产品目录",
+    "pageDescription": "浏览我们完整的产品线"
+  },
+  "Blog": {
+    "title": "博客文章",
+    "description": "最新行业见解和更新",
+    "readMore": "阅读更多",
+    "category": "类别",
+    "allCategories": "所有类别",
+    "searchPlaceholder": "搜索文章...",
+    "noResults": "未找到文章",
+    "publishedOn": "发布于",
+    "pageTitle": "博客文章",
+    "pageDescription": "最新行业见解和更新",
+    "postNotFound": "未找到文章"
+  },
+  "FAQ": {
+    "title": "常见问题解答",
+    "q1": "我们的产品有哪些特点？",
+    "a1": "我们的产品采用先进的工业自动化技术，具有高精度、可靠性强、易于集成等特点。所有产品都经过严格的质量控制和测试。",
+    "q2": "如何选择合适的产品？",
+    "a2": "您可以根据具体的应用场景和需求选择产品。我们的技术团队很乐意提供专业建议，帮助您选择最适合的解决方案。",
+    "q3": "是否提供技术支持？",
+    "a3": "是的，我们提供全面的技术支持，包括产品安装、调试、培训和维护服务。我们的技术团队随时为您解答问题。",
+    "q4": "如何获取产品报价？",
+    "a4": "您可以通过我们网站上的联系表单或直接联系我们的销售团队获取详细的产品报价。我们将根据您的具体需求提供最具竞争力的价格。",
+    "q5": "产品保修期是多久？",
+    "a5": "我们的产品标准保修期为一年，涵盖材料和工艺缺陷。我们还提供延长保修服务。"
+  },
+  "InquiryForm": {
+    "title": "产品咨询",
+    "description": "请填写以下表单，我们将尽快与您联系",
+    "name": {
+      "label": "姓名",
+      "required": "请输入姓名"
+    },
+    "email": {
+      "label": "电子邮件",
+      "required": "请输入电子邮件",
+      "invalid": "请输入有效的电子邮件地址"
+    },
+    "company": {
+      "label": "公司名称",
+      "required": "请输入公司名称"
+    },
+    "message": {
+      "label": "留言内容",
+      "required": "请输入留言内容"
+    },
+    "submit": "提交咨询",
+    "success": "提交成功！我们将尽快与您联系。",
+    "error": "提交失败，请稍后重试。",
+    "defaultMessage": "我对{product}产品感兴趣"
+  },
+  "Footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "careers": "招聘信息",
+    "contact": "联系方式",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "description": "您值得信赖的专业解决方案合作伙伴。",
+    "products": "产品",
+    "allProducts": "所有产品",
+    "resources": "资源",
+    "blog": "博客",
+    "address": "中国某市某区某街123号",
+    "phone": "+86 123 4567 8900",
+    "email": "contact@yourcompany.com",
+    "copyright": " 2024 企业网站。保留所有权利。",
+    "social": {
+      "title": "关注我们",
+      "twitter": "推特",
+      "facebook": "脸书",
+      "instagram": "Instagram"
+    }
+  },
+  "ThemeSwitcher": {
+    "toggleTheme": "切换主题"
+  },
+  "LanguageSwitcher": {
+    "selectLanguage": "选择语言"
+  }
+}

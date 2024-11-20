@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "titleTemplate": "%s | Corporate Website",
+    "defaultTitle": "Products | Corporate Website",
+    "defaultDescription": "Explore our innovative product line",
+    "defaultKeywords": "products,innovation,solutions",
+    "blogTitle": "Blog | Corporate Website",
+    "blogDescription": "Latest industry insights and updates",
+    "productsTitle": "Product Line | Corporate Website",
+    "productsDescription": "Browse our complete product catalog",
+    "description": "Leading manufacturer of high-quality industrial products and solutions",
+    "siteName": "Your Company"
+  },
+  "Layout": {
+    "title": "Product Showcase Website",
+    "description": "Explore our innovative product line",
+    "keywords": "products,innovation,solutions",
+    "siteName": "Corporate Website",
+    "siteDescription": "Leading Provider of Industrial Automation Solutions"
+  },
+  "Navigation": {
+    "logo": "Product Showcase",
+    "home": "Home",
+    "products": "Products",
+    "blog": "Blog",
+    "about": "About Us",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "toggleMenu": "Toggle navigation menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mobileMenu": "Navigation menu"
+  },
+  "Home": {
+    "title": "Innovative Product Solutions",
+    "subtitle": "The Best Choice for Your Business",
+    "cta": "Learn More",
+    "featuredProducts": "Featured Products",
+    "featuredProductsDescription": "Explore our most popular product line",
+    "featuredProductsViewAll": "View All Products",
+    "latestBlog": "Latest Blog Posts",
+    "latestBlogDescription": "Stay updated with industry insights",
+    "latestBlogViewAll": "Read More Articles",
+    "faq": "Frequently Asked Questions",
+    "faqDescription": "Find answers to common questions about our products",
+    "contact": "Contact Us",
+    "contactDescription": "Have questions? Get in touch with us"
+  },
+  "Products": {
+    "title": "Product Catalog",
+    "description": "Browse our complete product line",
+    "viewDetails": "View Details",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "searchPlaceholder": "Search products...",
+    "noResults": "No products found",
+    "features": "Product Features",
+    "specifications": "Technical Specifications",
+    "inquiryTitle": "Product Inquiry",
+    "pageTitle": "Product Catalog",
+    "pageDescription": "Browse our complete product line"
+  },
+  "Blog": {
+    "title": "Blog Posts",
+    "description": "Latest industry insights and updates",
+    "readMore": "Read More",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "searchPlaceholder": "Search articles...",
+    "noResults": "No articles found",
+    "publishedOn": "Published on",
+    "pageTitle": "Blog Posts",
+    "pageDescription": "Latest industry insights and updates",
+    "postNotFound": "Post not found"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "q1": "What are the features of our products?",
+    "a1": "Our products use advanced industrial automation technology, featuring high precision, reliability, and easy integration. All products undergo strict quality control and testing.",
+    "q2": "How to choose the right product?",
+    "a2": "You can select products based on your specific application scenarios and requirements. Our technical team is happy to provide professional advice to help you choose the most suitable solution.",
+    "q3": "Is technical support provided?",
+    "a3": "Yes, we provide comprehensive technical support, including product installation, debugging, training, and maintenance services. Our technical team is always available to answer your questions.",
+    "q4": "How to get product quotations?",
+    "a4": "You can get detailed product quotations through the contact form on our website or by directly contacting our sales team. We will provide the most competitive prices based on your specific needs.",
+    "q5": "What is the warranty period?",
+    "a5": "Our products come with a standard one-year warranty covering material and workmanship defects. We also offer extended warranty services."
+  },
+  "InquiryForm": {
+    "title": "Product Inquiry",
+    "description": "Please fill out the form below and we will get back to you shortly",
+    "name": {
+      "label": "Name",
+      "required": "Name is required"
+    },
+    "email": {
+      "label": "Email",
+      "required": "Email is required",
+      "invalid": "Please enter a valid email address"
+    },
+    "company": {
+      "label": "Company Name",
+      "required": "Company name is required"
+    },
+    "message": {
+      "label": "Message",
+      "required": "Message is required"
+    },
+    "submit": "Submit Inquiry",
+    "success": "Submitted successfully! We will contact you soon.",
+    "error": "Submission failed, please try again later.",
+    "defaultMessage": "I am interested in {product}"
+  },
+  "Footer": {
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "description": "Your trusted partner in professional solutions.",
+    "products": "Products",
+    "allProducts": "All Products",
+    "resources": "Resources",
+    "blog": "Blog",
+    "address": "123 Business Street, City, Country",
+    "phone": "+1 234 567 890",
+    "email": "contact@yourcompany.com",
+    "copyright": " 2024 Corporate Website. All rights reserved.",
+    "social": {
+      "title": "Follow Us",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "ThemeSwitcher": {
+    "toggleTheme": "Toggle Theme"
+  },
+  "LanguageSwitcher": {
+    "selectLanguage": "Select language",
+    "switchLanguage": "Switch Language"
+  }
+}

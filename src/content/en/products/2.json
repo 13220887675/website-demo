@@ -1,0 +1,21 @@
+{
+  "name": "IoT Gateway",
+  "description": "Industrial-grade IoT data collection and transmission gateway supporting multiple protocols and interfaces",
+  "features": [
+    "Multi-protocol support",
+    "High-performance processing",
+    "Security encryption",
+    "Remote management",
+    "Data caching",
+    "Expandable design"
+  ],
+  "specifications": [
+    "Processor: Dual-core ARM Cortex-A72",
+    "Memory: 2GB DDR4",
+    "Storage: 16GB eMMC",
+    "Interfaces: 2×Ethernet, Wi-Fi, 4G LTE",
+    "Protocols: Modbus, OPC UA, MQTT",
+    "Power: 12V DC"
+  ],
+  "image": "/images/products/product2.jpg"
+}

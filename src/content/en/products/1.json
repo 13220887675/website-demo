@@ -1,0 +1,21 @@
+{
+  "name": "Smart Industrial Controller",
+  "description": "Advanced industrial automation control system for production lines and industrial equipment",
+  "features": [
+    "High-precision control",
+    "Real-time monitoring",
+    "Remote operation",
+    "Data analysis",
+    "Fault prediction",
+    "Modular design"
+  ],
+  "specifications": [
+    "Processor: ARM Cortex-A53",
+    "Memory: 4GB DDR4",
+    "Storage: 32GB eMMC",
+    "Interfaces: 4×RS485, 2×CAN, 4×DI, 4×DO",
+    "Operating temperature: -20℃~70℃",
+    "Protection: IP65"
+  ],
+  "image": "/images/products/product1.jpg"
+}

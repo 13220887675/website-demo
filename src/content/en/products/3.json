@@ -1,0 +1,21 @@
+{
+  "name": "Smart Sensor Kit",
+  "description": "Industrial-grade smart sensor system including temperature, humidity, pressure, and various other sensors",
+  "features": [
+    "High-precision measurement",
+    "Wireless transmission",
+    "Low power design",
+    "Plug and play",
+    "Auto calibration",
+    "Dust and water resistant"
+  ],
+  "specifications": [
+    "Measurement range: Temperature -40℃~120℃, Humidity 0-100%RH",
+    "Accuracy: Temperature ±0.3℃, Humidity ±2%RH",
+    "Sampling rate: 1Hz-10Hz",
+    "Communication: ZigBee/LoRa",
+    "Battery life: >2 years",
+    "Protection: IP67"
+  ],
+  "image": "/images/products/product3.jpg"
+}

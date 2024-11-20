@@ -1,0 +1,21 @@
+{
+  "name": "智能工业控制器",
+  "description": "用于生产线和工业设备的先进工业自动化控制系统",
+  "features": [
+    "高精度控制",
+    "实时监控",
+    "远程操作",
+    "数据分析",
+    "故障预测",
+    "模块化设计"
+  ],
+  "specifications": [
+    "处理器：ARM Cortex-A53",
+    "内存：4GB DDR4",
+    "存储：32GB eMMC",
+    "接口：4×RS485、2×CAN、4×DI、4×DO",
+    "工作温度：-20℃~70℃",
+    "防护等级：IP65"
+  ],
+  "image": "/images/products/product1.jpg"
+}

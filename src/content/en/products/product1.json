@@ -1,0 +1,14 @@
+{
+  "name": "Product One",
+  "description": "This is our flagship product with amazing features.",
+  "features": [
+    "High performance",
+    "Easy to use",
+    "Reliable"
+  ],
+  "specifications": [
+    "Dimension: 10x20x30cm",
+    "Weight: 500g",
+    "Power: 100W"
+  ]
+}

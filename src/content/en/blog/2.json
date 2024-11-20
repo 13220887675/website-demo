@@ -1,0 +1,13 @@
+{
+  "title": "IoT Technology in Industrial Automation",
+  "excerpt": "Exploring how IoT technology is transforming traditional industrial automation systems",
+  "content": [
+    "IoT technology is profoundly changing the landscape of industrial automation, injecting new vitality into traditional manufacturing.",
+    "By connecting sensors, controllers, and gateway devices, enterprises can build a complete data collection and control network.",
+    "This network not only enables remote monitoring and control of devices but also collects vast amounts of operational data for analysis and optimization.",
+    "Our IoT gateway product is designed specifically to meet this need, capable of connecting various industrial devices for unified data collection and transmission."
+  ],
+  "date": "2023-12-05",
+  "author": "Engineer Li",
+  "tags": ["IoT", "Industrial Automation", "Data Collection", "Remote Control"]
+}

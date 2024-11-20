@@ -1,0 +1,21 @@
+{
+  "name": "物联网网关",
+  "description": "工业级物联网数据采集和传输网关，支持多种协议和接口",
+  "features": [
+    "多协议支持",
+    "高性能处理",
+    "安全加密",
+    "远程管理",
+    "数据缓存",
+    "可扩展设计"
+  ],
+  "specifications": [
+    "处理器：双核ARM Cortex-A72",
+    "内存：2GB DDR4",
+    "存储：16GB eMMC",
+    "接口：2×以太网, Wi-Fi, 4G LTE",
+    "协议：Modbus, OPC UA, MQTT",
+    "电源：12V DC"
+  ],
+  "image": "/images/products/product2.jpg"
+}
